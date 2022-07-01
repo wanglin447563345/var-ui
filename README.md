@@ -3,4 +3,4 @@
 ##基于element-ui二次封装
 
 ##技术站
-typescript+vue3
+typescript+vue3+vite
